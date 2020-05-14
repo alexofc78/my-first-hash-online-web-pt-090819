@@ -1,3 +1,5 @@
+#cloned
+
 def my_hash
   my_hash = {"name" => "Alex", "age" => "41", "city" => "Santo Domingo"}
 end
